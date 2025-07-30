@@ -47,9 +47,6 @@ Show Image
 Show Image
 Show Image
 
-</div>
-📊 GitHub İstatistiklerim
-<div align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50" alt="Data GIF"> </div> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snsevval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&icon_color=8A2BE2&border_color=8A2BE2" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsevval&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&border_color=8A2BE2" alt="Top Languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=snsevval&theme=tokyonight&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&border=8A2BE2" alt="GitHub Streak" /> </div>
 
 📈 Aktivite Grafiği
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=snsevval&theme=tokyo-night&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" /> </div>
@@ -61,9 +58,8 @@ Show Image
 
 </div>
 🎮 Fun Zone
-<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="Coding Cat GIF"> <h3>🎯 Kod Yazarken Dinlediğim Müzikler</h3>
+<div align="center"> <h3>🎯 Kod Yazarken Dinlediğim Müzikler</h3>
 🎵 Lo-fi Hip Hop | 🎧 Electronic | 🎼 Synthwave | 💜 Chill Beats
   
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=snsevval&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/snsevval?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" /> </div> <div align="center">
-🎯 "Kod yazmak sanattır, video analizi tutkudur! 💜"
 </div>
